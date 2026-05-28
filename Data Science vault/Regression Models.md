@@ -54,7 +54,6 @@ category: Core ML
 ## Related Subjects
 
 - [[Supervised Learning]]
-- [[Feature Engineering]]
 - [[Statistics]]
 
 ## Notes

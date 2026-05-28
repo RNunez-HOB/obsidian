@@ -54,7 +54,6 @@ category: Foundations
 ## Related Subjects
 
 - [[Statistics]]
-- [[Bayesian Statistics]]
 
 ## Notes
 

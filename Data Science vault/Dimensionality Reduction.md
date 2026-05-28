@@ -54,7 +54,6 @@ category: Core ML
 ## Related Subjects
 
 - [[Unsupervised Learning]]
-- [[Linear Algebra]]
 
 ## Notes
 

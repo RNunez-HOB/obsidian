@@ -54,7 +54,6 @@ category: Practical
 ## Related Subjects
 
 - [[Python for Data Science]]
-- [[Exploratory Data Analysis]]
 
 ## Notes
 

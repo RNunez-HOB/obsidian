@@ -53,7 +53,6 @@ category: Practical
 
 ## Related Subjects
 
-- [[Python for Data Science]]
 - [[Model Evaluation]]
 
 ## Notes

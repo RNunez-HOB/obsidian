@@ -54,7 +54,6 @@ category: Practical
 ## Related Subjects
 
 - [[Statistics]]
-- [[Data Visualization]]
 
 ## Notes
 

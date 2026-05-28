@@ -82,8 +82,6 @@ static = (
 ## Related Subjects
 
 - [[Statistics]]
-- [[Data Visualization]]
-- [[Data Wrangling]]
 
 ## Notes
 

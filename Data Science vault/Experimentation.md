@@ -53,7 +53,6 @@ category: Practical
 
 ## Related Subjects
 
-- [[Hypothesis Testing]]
 - [[Statistics]]
 
 ## Notes

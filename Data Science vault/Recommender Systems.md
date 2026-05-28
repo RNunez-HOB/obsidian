@@ -53,7 +53,6 @@ category: Advanced ML
 
 ## Related Subjects
 
-- [[Dimensionality Reduction]]
 - [[Supervised Learning]]
 
 ## Notes

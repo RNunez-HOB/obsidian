@@ -53,7 +53,6 @@ category: Advanced ML
 
 ## Related Subjects
 
-- [[Calculus for ML]]
 - [[Linear Algebra]]
 
 ## Notes

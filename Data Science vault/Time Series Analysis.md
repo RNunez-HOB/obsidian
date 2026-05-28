@@ -54,7 +54,6 @@ category: Advanced ML
 ## Related Subjects
 
 - [[Statistics]]
-- [[Anomaly Detection]]
 
 ## Notes
 

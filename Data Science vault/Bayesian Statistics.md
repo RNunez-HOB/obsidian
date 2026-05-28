@@ -54,7 +54,6 @@ category: Foundations
 ## Related Subjects
 
 - [[Statistics]]
-- [[Probability]]
 
 ## Notes
 

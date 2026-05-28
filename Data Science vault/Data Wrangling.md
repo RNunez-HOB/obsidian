@@ -53,9 +53,7 @@ category: Data Handling
 
 ## Related Subjects
 
-- [[Feature Engineering]]
 - [[Exploratory Data Analysis]]
-- [[Python for Data Science]]
 
 ## Notes
 

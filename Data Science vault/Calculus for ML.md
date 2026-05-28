@@ -53,7 +53,6 @@ category: Foundations
 
 ## Related Subjects
 
-- [[Neural Networks]]
 - [[Regression Models]]
 
 ## Notes
