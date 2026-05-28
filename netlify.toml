@@ -1,5 +1,5 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && python3 -c \"import re; f=open('__site/utils.py','r+'); s=f.read(); s=s.replace('PASTEL_COLORS[top_nodes[url]] if url in top_nodes else None','None'); f.seek(0); f.write(s); f.close()\" && sed -i '/___LANDING_BUTTON___/d' __site/zola/templates/index.html && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && python3 -c \"s=open('__site/utils.py').read(); open('__site/utils.py','w').write(s.replace('PASTEL_COLORS[top_nodes[url]] if url in top_nodes else None','None'))\" && sed -i '/___LANDING_BUTTON___/d' __site/zola/templates/index.html && __site/run.sh"
 publish = "public"
 
 [build.environment]
