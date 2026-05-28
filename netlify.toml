@@ -26,18 +26,7 @@ GRAPH_OPTIONS = """
 {
     nodes: {
         shape: "dot",
-        color: {
-            background: isDark() ? "#8c8e91" : "#dee2e6",
-            border: isDark() ? "#6b6d70" : "#b8bbbe",
-            highlight: {
-                background: isDark() ? "#a0a3a6" : "#c8cbce",
-                border: isDark() ? "#888a8d" : "#9a9ea2",
-            },
-            hover: {
-                background: isDark() ? "#a0a3a6" : "#c8cbce",
-                border: isDark() ? "#888a8d" : "#9a9ea2",
-            },
-        },
+        color: isDark() ? "#8c8e91" : "#dee2e6",
         font: {
             face: "Inter",
             color: isDark() ? "#c9cdd1" : "#616469",
@@ -50,11 +39,7 @@ GRAPH_OPTIONS = """
         },
     },
     edges: {
-        color: {
-            color: isDark() ? "#555759" : "#b0b3b8",
-            highlight: isDark() ? "#888a8d" : "#888a8d",
-            hover: isDark() ? "#888a8d" : "#888a8d",
-        },
+        color: isDark() ? "#8c8e91" : "#dee2e6",
         width: 0.8,
         smooth: {
             enabled: false,
