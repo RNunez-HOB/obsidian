@@ -18,8 +18,6 @@ completed:
 
 *Link every DS/ML subject this project touches. These links make the graph view wire up automatically.*
 
-- [[Subject Name]]
-- [[Subject Name]]
 
 ## Dataset
 
